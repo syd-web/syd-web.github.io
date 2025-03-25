@@ -57,3 +57,5 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+emailjs.send("","template_nshzbee");
